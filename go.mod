@@ -1,4 +1,4 @@
-module github.com/Polluxe/GolangRestApi/
+module github.com/polluxe/golangrestapi
 
 go 1.18
 
@@ -28,3 +28,4 @@ require (
 	gorm.io/driver/mysql v1.3.5 // indirect
 	gorm.io/gorm v1.23.8 // indirect
 )
+
